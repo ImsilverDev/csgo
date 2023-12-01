@@ -1,0 +1,22 @@
+--- de_aztec_winter --- ( remake by cL_ )
+
+====================================
+
+de_aztec_winter - Demolition / Defusion
+
+Not much to say about this one, all credit goes to Valve´s team who made de_aztec, i just modified it since Christmas
+is coming and saw that there was only christmas version of de_dust2, anyone could had done this. Enjoy!
+
+====================================
+
+Counter-terrorists; Prevent the Terrorists bombing the Christmastree/Santa´s house or kill all evil Terrorists.
+
+Terrorists; Plant the bomb under Christmas tree/Santa´s house or kill all good Counter-terrorists.
+
+====================================
+
+Made 2015, version Final 1,0v
+
+Recommended player ammount: 5-10
+
+Spawnpoints: 16 Ct, 16 Ts (32 together)
